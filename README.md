@@ -69,16 +69,6 @@ Whether it's creating a food ordering website for *Flavours of Bharat*, Truck Bo
 - 💼 LinkedIn: [www.linkedin.com/in/aayush-dua-87906423a]
 - 🌐 Portfolio (coming soon…)
 
----
-
-## ✨ Fun Facts
-
-- My daily LeetCode repo includes explanations in comments — not just code!
-- I enjoy presenting in group discussions and improving soft skills (thanks, Languafina!).
-- Whether it’s building robust **backend systems**,or deploying on the **cloud**, I enjoy every part of the development journey.
-
----
-
 > “Consistency beats talent when talent doesn’t work consistently.”
 
 Let’s keep building. Let’s keep learning. 🚀
